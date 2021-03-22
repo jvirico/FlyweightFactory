@@ -13,7 +13,8 @@ Fig. 1 - UML class design
 
 
 ## Cite this work
-    J. Rico, (2019) Flyweight and Flyweight Factory examples in Java and Python. [Source code](https://github.com/jvirico/FlyweightFactory)
+    J. Rico, (2019) Flyweight and Flyweight Factory examples in Java and Python.
+    [Source code](https://github.com/jvirico/FlyweightFactory)
 
 
 ## References
