@@ -8,8 +8,12 @@ In computer programming, flyweight is a software design pattern. A flyweight is 
 ## Flyweight Factory
 The Flyweight Factory manages a pool of existing flyweights. With the factory, clients don’t create flyweights directly. Instead, they call the factory, passing it bits of the intrinsic state of the desired flyweight. The factory looks over previ- ously created flyweights and either returns an existing one that matches search criteria or creates a new one if nothing is found [2].
 
-<img src="./img/flyweight_factory_uml.png" width="400">\
+<img src="./img/flyweight_factory_uml.png" width="500">\
 Fig. 1 - UML class design
+
+
+## Cite this work
+    J. Rico, (2019) Flyweight and Flyweight Factory examples in Java and Python. [Source code](https://github.com/jvirico/FlyweightFactory)
 
 
 ## References
